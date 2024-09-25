@@ -1,0 +1,8 @@
+Primer cambio en el archivo historial.txt.
+Segundo cambio en el archivo historial.txt.
+
+acabo la olimpiada de ajedrez
+
+Esta es una nueva línea añadida al archivo.
+
+tengo sueño 
